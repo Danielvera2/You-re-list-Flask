@@ -1,0 +1,49 @@
+body {
+  background-color: #191919;
+}
+.home {
+  color: #f9004d;
+  align-content: center;
+  text-decoration: none;
+}
+.text {
+  color: #f9004d;
+}
+td {
+  color: white;
+}
+#bsave {
+  background-color: #f9004d;
+  color: #191919;
+  width: 100%;
+}
+#cuerpo {
+  max-width: 35%;
+}
+table {
+  color: #f9004d;
+}
+label {
+  color: #f9004d;
+}
+p {
+  color: #f9004d;
+}
+#but {
+  background-color: #f9004d;
+  width: 100%;
+}
+#b {
+  background-color: #191919;
+}
+input {
+  background-color: #191919;
+  color: #f9004d;
+}
+.container {
+  margin-right: 150px;
+  max-width: 100%;
+}
+#table {
+  padding: 15px;
+}
